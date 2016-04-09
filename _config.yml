@@ -12,16 +12,16 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://joshhamann.com/
-title: Tom Stoneberg
-author: Tom Stoneberg
+title: Josh Hamann
+author: Josh Hamann
 description: Personal website and resume
 avatar: profile.png
-email: tstoneb@gmail.com
-github: stoneyb
+email: joshhamann@gmail.com
+github: joshhamann
 twitter: tstoneb
 #Comment out if you don't want disqus 
 #disqus: username
-google_analytics: UA-71946444-1 
+#google_analytics: UA-71946444-1 
 
 
 # needed for travis-ci build
