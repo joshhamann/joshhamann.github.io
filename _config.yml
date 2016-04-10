@@ -18,10 +18,10 @@ description: Personal website and resume
 avatar: profile.png
 email: joshhamann@gmail.com
 github: joshhamann
-twitter: tstoneb
+twitter:
 #Comment out if you don't want disqus 
 #disqus: username
-#google_analytics: UA-71946444-1 
+google_analytics: UA-76159685-1 
 
 
 # needed for travis-ci build
