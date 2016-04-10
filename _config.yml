@@ -17,8 +17,7 @@ author: Josh Hamann
 description: Personal website and resume
 avatar: profile.png
 email: joshhamann@gmail.com
-github: joshhamann
-twitter:
+github:
 #Comment out if you don't want disqus 
 #disqus: username
 google_analytics: UA-76159685-1
