@@ -8,7 +8,7 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-encoding: UTF-8
+
 
 # edit here to achieve your personal greatness
 url: http://joshhamann.com/
