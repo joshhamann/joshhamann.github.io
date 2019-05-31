@@ -11,7 +11,7 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://joshhamann.com/
+url: http://josh-hamann.com/
 title: Josh Hamann
 author: Josh Hamann
 description: Personal website and resume
@@ -19,7 +19,7 @@ avatar: profile.png
 email: joshhamann@gmail.com
 github: joshhamann
 linkedin: josh-hamann-98a61831
-#Comment out if you don't want disqus 
+#Comment out if you don't want disqus
 #disqus: username
 google_analytics: UA-76159685-1
 

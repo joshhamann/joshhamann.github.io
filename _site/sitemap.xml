@@ -1,102 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://joshhamann.com//</loc>
+    <loc>http://josh-hamann.com//</loc>
     <lastmod>2016-04-10T16:14:00-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  
+
     <url>
-      <loc>http://joshhamann.com//post1.html</loc>
-      
+      <loc>http://josh-hamann.com//post1.html</loc>
+
         <lastmod>2016-01-05T00:00:00-07:00</lastmod>
-      
-      
+
+
         <changefreq>monthly</changefreq>
-      
-      
+
+
         <priority>0.5</priority>
-      
+
     </url>
-  
-  
+
+
   <url>
-    <loc>http://joshhamann.com//404</loc>
-    
+    <loc>http://josh-hamann.com//404</loc>
+
       <lastmod>2016-04-10T16:14:00-06:00</lastmod>
-    
-    
+
+
       <changefreq>monthly</changefreq>
-    
-    
+
+
       <priority>0.3</priority>
-    
+
   </url>
-  
+
   <url>
-    <loc>http://joshhamann.com//atom.xml</loc>
-    
+    <loc>http://josh-hamann.com//atom.xml</loc>
+
       <lastmod>2016-04-10T16:14:00-06:00</lastmod>
-    
-    
+
+
       <changefreq>monthly</changefreq>
-    
-    
+
+
       <priority>0.3</priority>
-    
+
   </url>
-  
+
   <url>
-    <loc>http://joshhamann.com//blog</loc>
-    
+    <loc>http://josh-hamann.com//blog</loc>
+
       <lastmod>2016-04-10T16:14:00-06:00</lastmod>
-    
-    
+
+
       <changefreq>monthly</changefreq>
-    
-    
+
+
       <priority>0.3</priority>
-    
+
   </url>
-  
+
   <url>
-    <loc>http://joshhamann.com//</loc>
-    
+    <loc>http://josh-hamann.com//</loc>
+
       <lastmod>2016-04-10T16:14:00-06:00</lastmod>
-    
-    
+
+
       <changefreq>monthly</changefreq>
-    
-    
+
+
       <priority>0.3</priority>
-    
+
   </url>
-  
+
   <url>
-    <loc>http://joshhamann.com//resume</loc>
-    
+    <loc>http://josh-hamann.com//resume</loc>
+
       <lastmod>2016-04-10T16:14:00-06:00</lastmod>
-    
-    
+
+
       <changefreq>monthly</changefreq>
-    
-    
+
+
       <priority>0.3</priority>
-    
+
   </url>
-  
+
   <url>
-    <loc>http://joshhamann.com//sitemap.xml</loc>
-    
+    <loc>http://josh-hamann.com//sitemap.xml</loc>
+
       <lastmod>2016-04-10T16:14:00-06:00</lastmod>
-    
-    
+
+
       <changefreq>monthly</changefreq>
-    
-    
+
+
       <priority>0.3</priority>
-    
+
   </url>
-  
+
 </urlset>

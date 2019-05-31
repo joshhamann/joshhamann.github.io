@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  
+
     <title type="text" xml:lang="en">Josh Hamann</title>
     <link type="application/atom+xml" rel="self" href="http://joshhamann.com//atom.xml"/>
-  
-  <link href="http://joshhamann.com//"/>
-  <id>http://joshhamann.com//</id>
+
+  <link href="http://josh-hamann.com//"/>
+  <id>http://josh-hamann.com//</id>
   <updated>2016-04-10T16:14:00Z</updated>
   <author>
     <name>Josh Hamann</name>
     <email>joshhamann@gmail.com</email>
   </author>
   <rights type="text">Copyright © 2016 Josh Hamann. All rights reserved.</rights>
-  
+
   <entry>
   <title type="text">New Year New Site</title>
-  <link rel="alternate" type="text/html" href="http://joshhamann.com//post1.html" />
-  <id>http://joshhamann.com//post1</id>
+  <link rel="alternate" type="text/html" href="http://josh-hamann.com//post1.html" />
+  <id>http://josh-hamann.com//post1</id>
   <published>2016-01-05T00:00:00Z</published>
   <updated>2016-01-05T00:00:00Z</updated>
   <content type="html"><![CDATA[ <p>I wanted to bring in 2016 with a new online prescence and place to put some of my work and thoughts. This has been on my TODO list for quite some time and I finally sat down the other day to spend some real time looking at my options. After some poking I found <a title="Github Pages" href="https://pages.github.com/">Github Pages</a> which is free (!) and very easy to setup, even with a custom domain. It seemed <a title="Jekyll" href="https://jekyllrb.com/">Jekyll</a> was the next obvious choice. It is a joy to work with, adding and modifying content or styling is a breeze. There are also many open source Jekyll themes developed by talented people all over the world, I am using <a href="https://github.com/biomadeira/sustain">sustain</a> and <a href="https://github.com/biomadeira/vitae">vitae</a>. I highly recommend this setup if you’re looking for a quick and easy way to setup a simple website.</p>
